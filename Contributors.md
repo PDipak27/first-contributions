@@ -7,6 +7,7 @@ did it different
 - Moro! I am Tommi
 - Hello, I am Adharsh Rajavel (https://github.com/adharshr15)
 - Ray Wienand
+-**Atharva Jaiswal | 💻 Python & 🤖 Data Science Enthusiast | [🔗 LinkedIn](https://www.linkedin.com/in/atharva-jaiswal/)**
 -🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
 - Hein is here
 - Hi, Htain Lin is here.
@@ -4828,6 +4829,7 @@ Jasmine
 - [Ray Mcmillan Gumbo] (https://github.com/Raymacmillan)
 - [Tunahan Değirmencioğlu](https://github.com/dabbitz)
 - [IvanBurgos](https://github.com/IvanBurgos)
+- [TimCharlier](https://github.com/timcharlier6)
 - [Harinee Purushothaman](https://github.com/harinee05)
 - [Mehardeep](https://github.com/mehardeep88)
 - [xJaiki](https://github.com/xjaiki)
@@ -9253,3 +9255,4 @@ This is [Shallom Omamo] (https://github.com/graciewakir)
 - Hi, I'm Wasiqur Zaman.
 - Hi, I'm [Genard Rey](https://github.com/oslo19/) this is my first contribution, First stepping-stone to become a Full Stack Developer.
 - HI i am PDP
+- Hi, my name is J g'day all
